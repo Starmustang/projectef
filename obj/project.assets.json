@@ -2490,11 +2490,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Platzi\\Proyecto Entityframework\\projectef\\projectef.csproj",
+      "projectUniqueName": "D:\\Platzi\\Proyecto Entityframework\\proyectef\\projectef.csproj",
       "projectName": "projectef",
-      "projectPath": "D:\\Platzi\\Proyecto Entityframework\\projectef\\projectef.csproj",
+      "projectPath": "D:\\Platzi\\Proyecto Entityframework\\proyectef\\projectef.csproj",
       "packagesPath": "C:\\Users\\m\\.nuget\\packages\\",
-      "outputPath": "D:\\Platzi\\Proyecto Entityframework\\projectef\\obj\\",
+      "outputPath": "D:\\Platzi\\Proyecto Entityframework\\proyectef\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\m\\AppData\\Roaming\\NuGet\\NuGet.Config",
