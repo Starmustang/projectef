@@ -4,14 +4,14 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace proyectoef.Models
 {   [Table("Tarea")]
     public class Tarea
-    {   [Key]
+    {  // [Key]
         public Guid TareaId {get;set;}
 
         [ForeignKey("CategoriaId")]
         public Guid CategoriaId { get; set; }
 
-        [Required]
-        [MaxLength(200)]
+        //[Required]
+        //[MaxLength(200)]
         public string Titulo { get; set; }
 
         public string Descripcion {get;set;}
@@ -21,7 +21,7 @@ namespace proyectoef.Models
         public DateTime FechaCreacion { get; set; }
 
         public virtual Categoria Categoria { get; set; }
-        [NotMapped]
+       // [NotMapped]
         public string Resumen {get;set;}
     }
 

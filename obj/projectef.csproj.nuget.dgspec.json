@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Platzi\\Proyecto Entityframework\\proyectef\\projectef.csproj": {}
+    "D:\\Platzi\\Proyecto Entityframework\\projectef\\projectef.csproj": {}
   },
   "projects": {
-    "D:\\Platzi\\Proyecto Entityframework\\proyectef\\projectef.csproj": {
+    "D:\\Platzi\\Proyecto Entityframework\\projectef\\projectef.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Platzi\\Proyecto Entityframework\\proyectef\\projectef.csproj",
+        "projectUniqueName": "D:\\Platzi\\Proyecto Entityframework\\projectef\\projectef.csproj",
         "projectName": "projectef",
-        "projectPath": "D:\\Platzi\\Proyecto Entityframework\\proyectef\\projectef.csproj",
+        "projectPath": "D:\\Platzi\\Proyecto Entityframework\\projectef\\projectef.csproj",
         "packagesPath": "C:\\Users\\m\\.nuget\\packages\\",
-        "outputPath": "D:\\Platzi\\Proyecto Entityframework\\proyectef\\obj\\",
+        "outputPath": "D:\\Platzi\\Proyecto Entityframework\\projectef\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\m\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\m\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -50,11 +48,31 @@
               "target": "Package",
               "version": "[8.0.6, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[8.0.6, )"
             },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
             "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[8.0.2, )"
             }
