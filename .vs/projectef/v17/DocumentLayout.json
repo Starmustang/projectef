@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Platzi\\Proyecto Entityframework\\projectef\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D98F42A-8131-40DE-AAE4-30F0A228C504}|projectef.csproj|d:\\platzi\\proyecto entityframework\\projectef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D98F42A-8131-40DE-AAE4-30F0A228C504}|projectef.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D98F42A-8131-40DE-AAE4-30F0A228C504}|projectef.csproj|d:\\platzi\\proyecto entityframework\\projectef\\tareascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D98F42A-8131-40DE-AAE4-30F0A228C504}|projectef.csproj|solutionrelative:tareascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D98F42A-8131-40DE-AAE4-30F0A228C504}|projectef.csproj|d:\\platzi\\proyecto entityframework\\projectef\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D98F42A-8131-40DE-AAE4-30F0A228C504}|projectef.csproj|solutionrelative:models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D98F42A-8131-40DE-AAE4-30F0A228C504}|projectef.csproj|d:\\platzi\\proyecto entityframework\\projectef\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D98F42A-8131-40DE-AAE4-30F0A228C504}|projectef.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Platzi\\Proyecto Entityframework\\projectef\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Platzi\\Proyecto Entityframework\\projectef\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:54:43.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "D:\\Platzi\\Proyecto Entityframework\\projectef\\Models\\Tarea.cs",
+              "RelativeDocumentMoniker": "Models\\Tarea.cs",
+              "ToolTip": "D:\\Platzi\\Proyecto Entityframework\\projectef\\Models\\Tarea.cs",
+              "RelativeToolTip": "Models\\Tarea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:50:40.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\Platzi\\Proyecto Entityframework\\projectef\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "D:\\Platzi\\Proyecto Entityframework\\projectef\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:34:44.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TareasContext.cs",
+              "DocumentMoniker": "D:\\Platzi\\Proyecto Entityframework\\projectef\\TareasContext.cs",
+              "RelativeDocumentMoniker": "TareasContext.cs",
+              "ToolTip": "D:\\Platzi\\Proyecto Entityframework\\projectef\\TareasContext.cs",
+              "RelativeToolTip": "TareasContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:30:58.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

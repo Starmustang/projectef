@@ -7,7 +7,7 @@ namespace proyectoef.Models
     {  // [Key]
         public Guid TareaId {get;set;}
 
-        [ForeignKey("CategoriaId")]
+        //[ForeignKey("CategoriaId")]
         public Guid CategoriaId { get; set; }
 
         //[Required]
